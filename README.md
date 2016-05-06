@@ -13,4 +13,4 @@ Cross-compiled from Kali Linux using w64-mingw32. Tested with msfvenom generated
 
 ## License
 
-[MIT License](https://github.com/twbs/bootstrap/blob/master/LICENSE)
+[MIT License](LICENSE)
